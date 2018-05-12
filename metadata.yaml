@@ -1,0 +1,32 @@
+_repo: A-Message-to-Garcia--13-Being-a-Preachment_17195
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 17195-h/images/cover2.jpg
+creator:
+  author:
+    agent_name: Hubbard, Elbert
+    aliases:
+    - Elbertus, Fra
+    - Ali Baba
+    birthdate: 1856
+    deathdate: 1915
+    gutenberg_agent_id: '228'
+    url: http://www.gutenberg.org/2009/agents/228
+    wikipedia: http://en.wikipedia.org/wiki/Elbert_Hubbard
+description: ''
+gutenberg_issued: '2005-12-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17195'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BJ'
+- !lcsh 'Rowan, Andrew Summers'
+- !lcsh 'Success'
+- !lcsh 'Spanish-American War, 1898'
+title: "A Message to Garcia\r\nBeing a Preachment"
+url: http://www.gutenberg.org/ebooks/17195
